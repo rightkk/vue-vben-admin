@@ -145,6 +145,9 @@ export default {
     listBasic: '标准列表',
     listSearch: '搜索列表',
   },
+  sample: {
+    sample: '用例',
+  },
   permission: {
     permission: '权限管理',
 

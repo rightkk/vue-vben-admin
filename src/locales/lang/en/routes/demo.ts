@@ -150,6 +150,9 @@ export default {
     listBasic: 'Basic list',
     listSearch: 'Search list',
   },
+  sample: {
+    sample: 'sample',
+  },
   permission: {
     permission: 'Permission',
 
